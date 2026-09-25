@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32670978/README.md)
 # code-quality
 
 A Claude Code plugin that bundles code review, test generation, and auto-formatting into a single workflow — run it after any meaningful change and get actionable feedback without switching tools.
